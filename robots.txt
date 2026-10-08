@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://velanganibhutange-tester.github.io/velangani-portfolio/sitemap.xml
