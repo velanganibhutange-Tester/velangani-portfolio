@@ -12,12 +12,6 @@ I specialize in **AI/LLM feature testing, UI automation, API validation, integra
 
 ---
 
-## ✨ Portfolio Preview
-
-![Velangani Bhutange Portfolio Preview](office-scene-labelled.webp)
-
-*An evening-inspired professional workspace featuring a static presenter avatar, an office environment, and a recruiter-friendly portfolio experience.*
-
 ### 🌐 [Explore My Live Portfolio](https://velanganibhutange-tester.github.io/velangani-portfolio/)
 
 ---
